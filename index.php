@@ -16,7 +16,7 @@ require_once __DIR__ . '/functions.php';
 </head>
 <body>
 
-<nav>
+<nav align="center">
     <li class="navbarItem"><a href="">Home</a></li>
     <li class="navbarItem"><a href="">About</a></li>
     <li class="navbarItem"><a href="">Contact Us</a></li>
