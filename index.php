@@ -15,6 +15,7 @@
         <p class="postContent">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem error soluta consequatur ea veritatis beatae, neque, incidunt aspernatur quia debitis delectus labore eius illum libero quaerat nesciunt natus, architecto molestias.</p>
         <p class="postAuthor">Sample Author</p>
         <p class="postDate">2017-10-16</p>
+        <p class="likeCounter">13 👍</p>
     </div>
 
 
