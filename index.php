@@ -25,10 +25,7 @@ require_once __DIR__ . '/functions.php';
     <div id="posts">
     <!-- Loop through the array with posts, and ouput the contents for each post
         into one div.post element each, and get the authors name through authorId -->
-    <?php
-        usort($posts, 'sortPostsByDate');
-        foreach($posts as $author => $post):
-    ?>
+    <?php foreach($posts as $author => $post): ?>
       <div class="post">
         <h3 class="postTitle"><?php echo $post['title']; ?></h3>
         <hr>
@@ -43,6 +40,8 @@ require_once __DIR__ . '/functions.php';
     <?php endforeach; ?>
     </div>
 
+
+  <img src="<?php echo $post['authorId'] ?>.jpg">
 
 </body>
 <script src="script.js"></script>
