@@ -1,14 +1,6 @@
 <?php
 declare(strict_types=1);
 
-/*
-$authors = [
-    'Edvin',
-    'Johan',
-    'Vincent',
-];
- */
-
 $authors = [
     array('id' => 0, 'user' => 'Edvin'),
     array('id' => 1, 'user' => 'Johan'),

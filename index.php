@@ -42,9 +42,5 @@ require_once __DIR__ . '/functions.php';
     <?php endforeach; ?>
     </div>
 
-
-  <img src="<?php echo $post['authorId'] ?>.jpg">
-
 </body>
-<script src="script.js"></script>
 </html>
