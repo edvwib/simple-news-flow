@@ -29,9 +29,9 @@ require_once __DIR__ . '/functions.php';
     usort($posts, 'sortPostsByDate');
     foreach($posts as $author => $post): ?>
       <div class="post">
-        <h3 class="postTitle"><?php echo $post['title']; ?></h3>
+        <h3 class="postTitle"><?php echo $post['title'] ?></h3>
         <hr>
-        <p class="postContent"><?php echo $post['content']; ?></p>
+        <p class="postContent"><?php echo $post['content'] ?></p>
         <hr>
         <div class="postMeta">
           <p class="postAuthor"><?php echo $authors[$post['authorId']]['user'] ?></p>
