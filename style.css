@@ -7,39 +7,37 @@ body{
   background-color: #3b5998;
 }
 hr{
-  border: 1px solid white;
   margin: 5px 0;
+  border: 1px solid white;
 }
 
 /*Navbar*/
 nav{
   position: fixed;
   top: 0;
+  background-color: #8b9dc3;
   width: 100%;
   height: 50px;
-  background-color: #8b9dc3;
 }
 nav > .navbarItem{
   float: left;
-  list-style: none;
-  width: 33.33%;
   margin-top: 13px;
-
+  width: 33.33%;
+  list-style: none;
 }
 nav a{
-  text-decoration: none;
   color: white;
+  text-decoration: none;
 }
 
-
-
+/*Posts*/
 .post{
-  overflow: hidden;
-  width: 60%;
   margin: 20px auto;
-  padding: 15px;
   border-radius: 10px;
   background-color: #607bb3;
+  padding: 15px;
+  width: 60%;
+  overflow: hidden;
   color: white;
 }
 .post:first-of-type{
