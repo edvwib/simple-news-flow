@@ -7,4 +7,4 @@ database since the data is currently hardcoded into arrays.
 2. ???
 3. Profit
 
-https://media.giphy.com/media/5PVHPYJAoMjRu/giphy.gif
+<img src="https://media.giphy.com/media/5PVHPYJAoMjRu/giphy.gif" alt="Webbutvecklare" width="100%">
