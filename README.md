@@ -7,4 +7,4 @@ database since the data is currently hardcoded into arrays.
 2. ???
 3. Profit
 
-<img src="https://i.giphy.com/5PVHPYJAoMjRu.gif" alt="mvc" width="100%">
+<img src="https://media.giphy.com/media/5PVHPYJAoMjRu/giphy.gif" alt="mvc" width="100%">
